@@ -1,0 +1,10 @@
+header{
+    background-color: url("./../../assests/header.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+text-align: left ;
+height: 400px;
+overflow: hidden;
+
+}
