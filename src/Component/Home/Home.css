@@ -1,0 +1,80 @@
+.numbers{
+    background-color: #a82d49;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+
+
+}
+.numbers .raw{
+    margin: 60px 0px;
+}
+.numbers h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: white;
+font-family:'tajawal';
+}
+.numbers h6{
+    text-transform: uppercase;
+    color:#fff;
+    font-family:'tajawal';
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+/*css to the pride section*/
+.pride{
+    background-color: transparent;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 60px;
+}
+.pride img {
+    max-width: 90%;
+    border-radius: 10px ;
+}
+
+.pride h2{
+    font-size: 35px;
+    font-weight: bold;
+    width: 100%;
+line-height: 50px;
+margin-top: 15px ;
+    color:#a82d49;
+font-family:'tajawal';
+}
+.pride p{
+    font-size: 16px;
+  line-height: 28px;
+  width: 100%;
+    color:black;
+font-family:'tajawal';
+margin-top : 15px ;
+}
+.pride button{
+    background-color: #a82d49;
+    border: #a82d49;
+    box-sizing: border-box;
+  
+    height: 40px;
+    text-align: center;
+    margin-top : 20px ;
+}
+.pride button a{
+    display: block;
+    color: #fff;
+    font-family:'tajawal';
+    text-decoration:none !important ;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.pride button:hover a{
+    color:#a82d49;
+    transition:0;
+}

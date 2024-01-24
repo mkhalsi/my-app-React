@@ -5,7 +5,8 @@ const Header =()=>{
 
     return (
       <header>
-        <div className="Container">
+        <div className="container">
+          <div className="row">
           <div className="col-md-6">
             <h2>Good food choices are good investments.</h2>
             <p>
@@ -16,6 +17,7 @@ const Header =()=>{
             <button>Learn more</button>
           </div>
           <div className="col-md-6"></div>
+        </div>
         </div>
       </header>
     );
